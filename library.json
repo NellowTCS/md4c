@@ -1,0 +1,10 @@
+{
+  "name": "md4c",
+  "version": "0.4.7",
+  "description": "Markdown for C - CommonMark parser",
+  "build": {
+    "includeDir": "src",
+    "srcDir": "src",
+    "srcFilter": ["+<md4c.c>", "+<md4c-html.c>", "+<entity.c>"]
+  }
+}
