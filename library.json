@@ -4,7 +4,6 @@
   "description": "Markdown for C - CommonMark parser",
   "build": {
     "includeDir": "src",
-    "srcDir": "src",
-    "srcFilter": ["+<md4c.c>", "+<md4c-html.c>", "+<entity.c>"]
+    "srcDir": "src"
   }
 }
